@@ -46,7 +46,7 @@
 </a> 
 
 
-<a href="https://www.sublimetext.com" alt="Sublime Text" target="_blank">
+<a href="https://www.sublimetext.com" alt="SublimeText" target="_blank">
 <img src="	https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </a> 
 
