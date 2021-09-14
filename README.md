@@ -19,9 +19,11 @@
 ## About me
 
 <a href="https://wa.me/+5571983741004" alt="WhatsApp" target="_blank">
-
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+</a> 
 
+<a href="https://linkedin.com/italogoes" alt="Linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
 
 ## Stacks
