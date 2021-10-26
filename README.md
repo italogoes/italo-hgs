@@ -1,12 +1,8 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-:computer: I'm Front-End Developer!
+:computer: Olá, meu nome é Ítalo Góes. Eu sou desenvolvedor Front-End.
 
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+🦄Habilidade: HTML, CSS, JavaScript, Sass e Bootstrap
 
  
 
