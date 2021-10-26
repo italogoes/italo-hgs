@@ -19,7 +19,3 @@
 <a href="https://www.intagram.com/italo_hgs/" alt="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a> 
-
-<a href="https://open.spotify.com/user/22uhy54gkc2ncay2xagg4mpba?si=e8c283859f4b459a" alt="Spotify" target="_blank">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-</a> 
