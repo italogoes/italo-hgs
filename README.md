@@ -41,3 +41,16 @@
 <a href="https://www.sublimetext.com" alt="SublimeText" target="_blank">
 <img src="	https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </a> 
+
+
+Código Fonte TV
+Código Fonte TV
+Part-time • 5 meses
+Serviços: Social Media, UI Designer, Front-End
+
+
+ContWeb
+
+ContWeb
+Estágio • 1 mês
+Serviços: UI Designer, Front-End
