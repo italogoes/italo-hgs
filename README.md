@@ -2,7 +2,7 @@
 
 :computer: Olá, meu nome é **Ítalo Góes**. Eu sou desenvolvedor **Front-End**.
 
-🦄 **Habilidades:** HTML, CSS, JavaScript, Sass e Bootstrap.
+🦄 **Habilidades:** HTML, CSS, JavaScript, React.js, Sass e Bootstrap.
 
 🛠 **Ferramentas:** VsCode, Trello, Vercel, Netlify, Git e Github.
 
