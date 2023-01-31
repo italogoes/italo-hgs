@@ -1,8 +1,8 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-:computer: Olá, meu nome é **Ítalo Góes**. Eu sou desenvolvedor **Front-End**.
+:computer: Olá, meu nome é **Ítalo Góes**. Eu sou desenvolvedor **Full-Stack**.
 
-🦄 **Habilidades:** HTML, CSS, JavaScript, React.js, Sass e Bootstrap.
+🦄 **Habilidades:** HTML, CSS, JavaScript, React.js, Sass e Bootstrap, Node.js, MySql.
 
 🛠 **Ferramentas:** VsCode, Trello, Vercel, Netlify, Git e Github.
 
